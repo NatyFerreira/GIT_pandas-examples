@@ -1,6 +1,6 @@
 
 # -*- coding: utf-8 -*-
-__author__ = "Natalia  et Elena"
+__author__ = "Natalia Ferreira et clement et elena"
 
 # Correction Elena 
 __author__ = "Natalia Ferreira"
